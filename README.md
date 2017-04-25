@@ -1,6 +1,6 @@
 # npmdoc-jsbn
 
-#### api documentation for  [jsbn (v1.1.0)](https://github.com/andyperlitch/jsbn#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-jsbn.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-jsbn) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-jsbn.svg)](https://travis-ci.org/npmdoc/node-npmdoc-jsbn)
+#### basic api documentation for  [jsbn (v1.1.0)](https://github.com/andyperlitch/jsbn#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-jsbn.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-jsbn) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-jsbn.svg)](https://travis-ci.org/npmdoc/node-npmdoc-jsbn)
 
 #### The jsbn library is a fast, portable implementation of large-number math in pure JavaScript, enabling public-key crypto and other applications on desktop and mobile browsers.
 
@@ -59,7 +59,8 @@
     "scripts": {
         "test": "mocha test.js"
     },
-    "version": "1.1.0"
+    "version": "1.1.0",
+    "bin": {}
 }
 ```
 
